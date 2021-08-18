@@ -1,3 +1,5 @@
 # CM Help Tech
 
-Loja de Informática Especializada em Manutenção de Computadores e Notebooks.
+Loja Fictícia de Informática, Especializada em Manutenção de Computadores e Notebooks no geral.
+Projeto desenvolvido na linguagem HTML e CSS, com a colaboração do Prof. Edilson Jesus Carrilho
+Silva e análise do Prof. José de Assis Filho.
